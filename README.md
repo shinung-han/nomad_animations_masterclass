@@ -32,3 +32,8 @@
 - [x] #2.6 CurvedAnimation
 - [x] #2.7 ValueNotifier
 - [x] #2.8 AnimationStatus
+
+![#2 Explicit animations](https://github.com/shinung-han/nomad_animations_masterclass/assets/118904460/e7a1a47f-6b11-49c2-b952-23ac7381a3a9)
+
+#
+
