@@ -2,7 +2,9 @@ import 'package:flutter/material.dart';
 import 'package:flutter_animations_masterclass/screens/manu_screen.dart';
 
 void main() {
-  runApp(const MyApp());
+  runApp(
+    const MyApp(),
+  );
 }
 
 class MyApp extends StatelessWidget {
@@ -12,9 +14,12 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Flutter Demo',
+      debugShowCheckedModeBanner: false,
+      title: 'Flutter Animations Masterclass',
       theme: ThemeData(
-        colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
+        colorScheme: const ColorScheme.light(
+          primary: Colors.blue,
+        ),
         useMaterial3: true,
       ),
       home: const MenuScreen(),
