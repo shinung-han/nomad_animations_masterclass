@@ -29,15 +29,19 @@ class _ImplicitAnimationsSCreenState extends State<ImplicitAnimationsSCreen> {
         child: Column(
           mainAxisAlignment: MainAxisAlignment.center,
           children: [
-            AnimatedContainer(
-              duration: const Duration(seconds: 2),
-              width: size.width * 0.8,
-              height: size.width * 0.8,
-              transform: Matrix4.rotationZ(_visible ? 1 : 0),
-              transformAlignment: Alignment.center,
-              decoration: BoxDecoration(
-                color: _visible ? Colors.red : Colors.amber,
-                borderRadius: BorderRadius.circular(_visible ? 100 : 0),
+            GestureDetector(
+              onTap: _goTrigger,
+              child: AnimatedContainer(
+                curve: Curves.elasticOut,
+                duration: const Duration(seconds: 1),
+                width: size.width * 0.8,
+                height: size.width * 0.8,
+                transform: Matrix4.rotationZ(_visible ? 1 : 0),
+                transformAlignment: Alignment.center,
+                decoration: BoxDecoration(
+                  color: _visible ? Colors.red : Colors.amber,
+                  borderRadius: BorderRadius.circular(_visible ? 100 : 0),
+                ),
               ),
             ),
             const SizedBox(height: 50),
