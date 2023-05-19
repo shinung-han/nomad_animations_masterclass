@@ -28,7 +28,7 @@
 - [x] #2.2 Animation Values
 - [x] #2.3 AnimatedBuilder
 - [x] #2.4 ColorTween
-- [ ] #2.5 Explicit Widgets
+- [x] #2.5 Explicit Widgets
 - [ ] #2.6 CurvedAnimation
 - [ ] #2.7 ValueNotifier
 - [ ] #2.8 AnimationStatus
