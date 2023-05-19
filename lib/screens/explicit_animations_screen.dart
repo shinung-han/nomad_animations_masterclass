@@ -1,5 +1,3 @@
-import 'dart:async';
-
 import 'package:flutter/material.dart';
 
 class ExplicitAnimationsScreen extends StatefulWidget {
@@ -14,7 +12,7 @@ class _ExplicitAnimationsScreenState extends State<ExplicitAnimationsScreen>
     with SingleTickerProviderStateMixin {
   late final AnimationController _animationController = AnimationController(
     vsync: this,
-    duration: const Duration(seconds: 10),
+    duration: const Duration(seconds: 5),
   );
 
   void _play() {
@@ -31,14 +29,7 @@ class _ExplicitAnimationsScreenState extends State<ExplicitAnimationsScreen>
 
   @override
   void initState() {
-    // Ticker((elapsed) => print(elapsed)).start();
     super.initState();
-    Timer.periodic(
-      const Duration(milliseconds: 500),
-      (timer) {
-        print(_animationController.value);
-      },
-    );
   }
 
   @override
@@ -51,13 +42,35 @@ class _ExplicitAnimationsScreenState extends State<ExplicitAnimationsScreen>
         child: Column(
           mainAxisAlignment: MainAxisAlignment.center,
           children: [
-            Text(
-              '${_animationController.value}',
-              style: const TextStyle(
-                fontSize: 50,
-              ),
+            AnimatedBuilder(
+              animation: _animationController,
+              builder: (context, child) {
+                return Opacity(
+                  opacity: _animationController.value,
+                  child: Container(
+                    decoration: BoxDecoration(
+                      color: Colors.blue,
+                      borderRadius: BorderRadius.circular(30),
+                    ),
+                    width: 300,
+                    height: 300,
+                    child: Center(
+                      child: Text(
+                        _animationController.value
+                            .toString()
+                            .substring(0, 3)
+                            .padRight(2, '0'),
+                        style: const TextStyle(
+                          color: Colors.white,
+                          fontSize: 30,
+                        ),
+                      ),
+                    ),
+                  ),
+                );
+              },
             ),
-            const SizedBox(height: 20),
+            const SizedBox(height: 30),
             Row(
               mainAxisAlignment: MainAxisAlignment.center,
               children: [

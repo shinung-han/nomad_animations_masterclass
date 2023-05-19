@@ -1,31 +1,34 @@
 # Nomad Coders - Flutter Animations Masterclass
 
 ### #0 INTRODUCTION
-* [x] #0.0 Introduction
-* [x] #0.1 What are We Building
-* [x] #0.2 Requirements
+
+- [x] #0.0 Introduction
+- [x] #0.1 What are We Building
+- [x] #0.2 Requirements
 
 #
 
 ### #1 IMPLICIT ANIMATIONS
-* [x] #1.0 Project Setup
-* [x] #1.1 Implicitly Animated Widgets
-* [x] #1.2 AnimatedContainer
-* [x] #1.3 Curves
-* [x] #1.4 TweenAnimationBuilder
-* [x] #1.5 Recap
+
+- [x] #1.0 Project Setup
+- [x] #1.1 Implicitly Animated Widgets
+- [x] #1.2 AnimatedContainer
+- [x] #1.3 Curves
+- [x] #1.4 TweenAnimationBuilder
+- [x] #1.5 Recap
 
 ![Implicit animations-2](https://github.com/shinung-han/nomad_animations_masterclass/assets/118904460/dc5d7582-b062-4824-9107-1cdacde26c74)
 
 #
 
 ### #2 EXPLICIT ANIMATIONS
-* [x] #2.0 Implicit vs Explicit
-* [x] #2.1 AnimationController
-* [ ] #2.2 Animation Values
-* [ ] #2.3 AnimatedBuilder
-* [ ] #2.4 ColorTween
-* [ ] #2.5 Explicit Widgets
-* [ ] #2.6 CurvedAnimation
-* [ ] #2.7 ValueNotifier
-* [ ] #2.8 AnimationStatus
+
+- [x] #2.0 Implicit vs Explicit
+- [x] #2.1 AnimationController
+- [x] #2.2 Animation Values
+- [x] #2.3 AnimatedBuilder
+- [ ] #2.4 ColorTween
+- [ ] #2.5 Explicit Widgets
+- [ ] #2.6 CurvedAnimation
+- [ ] #2.7 ValueNotifier
+- [ ] #2.8 AnimationStatus
