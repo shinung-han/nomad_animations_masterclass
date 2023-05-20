@@ -47,5 +47,14 @@
 
 ![apple_watch](https://github.com/shinung-han/nomad_animations_masterclass/assets/118904460/aee1c310-d8d5-4dee-91c8-de11ada5a796)
 
-
 #
+
+### #4. SWIPING CARDS PROJECT
+
+- [x] #4.0 Swiping Gesture
+- [ ] #4.1 Bounds
+- [ ] #4.2 Tween Transform
+- [ ] #4.3 Dismiss Card
+- [ ] #4.4 Background Card
+- [ ] #4.5 Cards
+- [ ] #4.6 Code Challenge
