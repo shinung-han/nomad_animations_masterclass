@@ -43,6 +43,6 @@
 - [x] #3.1 drawArc
 - [x] #3.2 shouldRepaint
 - [x] #3.3 Random()
-- [ ] #3.4 Code Challenge
+- [x] #3.4 Code Challenge
 
 #
