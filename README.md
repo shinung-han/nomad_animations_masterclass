@@ -37,3 +37,12 @@
 
 #
 
+### #3 APPLE WATCH PROJECT
+
+- [x] #3.0 CustomPainter
+- [ ] #3.1 drawArc
+- [ ] #3.2 shouldRepaint
+- [ ] #3.3 Random()
+- [ ] #3.4 Code Challenge
+
+#
