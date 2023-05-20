@@ -17,7 +17,7 @@
 - [x] #1.4 TweenAnimationBuilder
 - [x] #1.5 Recap
 
-![Implicit animations-2](https://github.com/shinung-han/nomad_animations_masterclass/assets/118904460/dc5d7582-b062-4824-9107-1cdacde26c74)
+![Implicit animations-2](https://github.com/shinung-han/nomad_animations_masterclass/assets/118904460/dd3be3ca-4cea-44f5-8a8c-3c1d2c69a2b8)
 
 #
 
@@ -33,7 +33,7 @@
 - [x] #2.7 ValueNotifier
 - [x] #2.8 AnimationStatus
 
-![#2 Explicit animations](https://github.com/shinung-han/nomad_animations_masterclass/assets/118904460/e7a1a47f-6b11-49c2-b952-23ac7381a3a9)
+![#2 Explicit animations](https://github.com/shinung-han/nomad_animations_masterclass/assets/118904460/be070fef-07c5-4e2e-8ade-148041e2dc10)
 
 #
 
