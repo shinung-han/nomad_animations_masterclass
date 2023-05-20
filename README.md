@@ -57,4 +57,4 @@
 - [x] #4.3 Dismiss Card
 - [x] #4.4 Background Card
 - [x] #4.5 Cards
-- [ ] #4.6 Code Challenge
+- [x] #4.6 Code Challenge
