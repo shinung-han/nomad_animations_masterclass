@@ -55,6 +55,6 @@
 - [x] #4.1 Bounds
 - [x] #4.2 Tween Transform
 - [x] #4.3 Dismiss Card
-- [ ] #4.4 Background Card
+- [x] #4.4 Background Card
 - [ ] #4.5 Cards
 - [ ] #4.6 Code Challenge
