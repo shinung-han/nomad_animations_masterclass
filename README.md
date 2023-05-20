@@ -42,7 +42,7 @@
 - [x] #3.0 CustomPainter
 - [x] #3.1 drawArc
 - [x] #3.2 shouldRepaint
-- [ ] #3.3 Random()
+- [x] #3.3 Random()
 - [ ] #3.4 Code Challenge
 
 #
