@@ -45,4 +45,7 @@
 - [x] #3.3 Random()
 - [x] #3.4 Code Challenge
 
+![apple_watch](https://github.com/shinung-han/nomad_animations_masterclass/assets/118904460/aee1c310-d8d5-4dee-91c8-de11ada5a796)
+
+
 #
