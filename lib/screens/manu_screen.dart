@@ -41,7 +41,7 @@ class MenuScreen extends StatelessWidget {
             ),
             ElevatedButton(
               onPressed: () => _goToPage(context, const SwipingCardsScreen()),
-              child: const Text('Apple Watch'),
+              child: const Text('Swiping Cards'),
             ),
           ],
         ),

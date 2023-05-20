@@ -52,7 +52,7 @@
 ### #4. SWIPING CARDS PROJECT
 
 - [x] #4.0 Swiping Gesture
-- [ ] #4.1 Bounds
+- [x] #4.1 Bounds
 - [ ] #4.2 Tween Transform
 - [ ] #4.3 Dismiss Card
 - [ ] #4.4 Background Card
