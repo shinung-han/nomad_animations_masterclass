@@ -54,7 +54,7 @@
 - [x] #4.0 Swiping Gesture
 - [x] #4.1 Bounds
 - [x] #4.2 Tween Transform
-- [ ] #4.3 Dismiss Card
+- [x] #4.3 Dismiss Card
 - [ ] #4.4 Background Card
 - [ ] #4.5 Cards
 - [ ] #4.6 Code Challenge
