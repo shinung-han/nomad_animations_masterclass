@@ -69,7 +69,7 @@
 - [x] #5.3 Hero
 - [x] #5.4 PageRouteBuilder
 - [x] #5.5 ProgressBar
-- [ ] #5.6 Progress Animation
+- [x] #5.6 Progress Animation
 - [ ] #5.7 Code Challenge
 - [ ] #5.8 Marquee
 - [ ] #5.9 Lottie
