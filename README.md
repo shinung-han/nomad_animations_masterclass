@@ -64,7 +64,7 @@
 ### #5 MUSIC PLAYER PROJECT
 
 - [x] #5.0 Album PageView
-- [ ] #5.1 AnimatedSwitcher
+- [x] #5.1 AnimatedSwitcher
 - [ ] #5.2 Album Scale
 - [ ] #5.3 Hero
 - [ ] #5.4 PageRouteBuilder
