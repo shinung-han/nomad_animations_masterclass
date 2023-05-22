@@ -67,7 +67,7 @@
 - [x] #5.1 AnimatedSwitcher
 - [x] #5.2 Album Scale
 - [x] #5.3 Hero
-- [ ] #5.4 PageRouteBuilder
+- [x] #5.4 PageRouteBuilder
 - [ ] #5.5 ProgressBar
 - [ ] #5.6 Progress Animation
 - [ ] #5.7 Code Challenge

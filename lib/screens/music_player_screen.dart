@@ -40,13 +40,15 @@ class _MusicPlayerScreenState extends State<MusicPlayerScreen> {
     super.dispose();
   }
 
-  void _onTap(int index) {
-    Navigator.push(
-      context,
-      MaterialPageRoute(
-        builder: (context) => MusicPlayerDetailScreen(index: index),
-      ),
-    );
+  void _onTap(int imageIndex) {
+    Navigator.push(context, PageRouteBuilder(
+      pageBuilder: (context, animation, secondaryAnimation) {
+        return FadeTransition(
+          opacity: animation,
+          child: MusicPlayerDetailScreen(index: imageIndex),
+        );
+      },
+    ));
   }
 
   @override
