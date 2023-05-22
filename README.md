@@ -66,7 +66,7 @@
 - [x] #5.0 Album PageView
 - [x] #5.1 AnimatedSwitcher
 - [x] #5.2 Album Scale
-- [ ] #5.3 Hero
+- [x] #5.3 Hero
 - [ ] #5.4 PageRouteBuilder
 - [ ] #5.5 ProgressBar
 - [ ] #5.6 Progress Animation
