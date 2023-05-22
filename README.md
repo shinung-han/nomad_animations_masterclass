@@ -58,3 +58,24 @@
 - [x] #4.4 Background Card
 - [x] #4.5 Cards
 - [x] #4.6 Code Challenge
+
+#
+
+### #5 MUSIC PLAYER PROJECT
+
+- [x] #5.0 Album PageView
+- [ ] #5.1 AnimatedSwitcher
+- [ ] #5.2 Album Scale
+- [ ] #5.3 Hero
+- [ ] #5.4 PageRouteBuilder
+- [ ] #5.5 ProgressBar
+- [ ] #5.6 Progress Animation
+- [ ] #5.7 Code Challenge
+- [ ] #5.8 Marquee
+- [ ] #5.9 Lottie
+- [ ] #5.10 VolumePainter
+- [ ] #5.11 Covered Menu
+- [ ] #5.12 Interval
+- [ ] #5.13 Menu Slide
+- [ ] #5.14 Menu Animations
+- [ ] #5.15 Conclusion
