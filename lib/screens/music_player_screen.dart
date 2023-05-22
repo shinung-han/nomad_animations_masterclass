@@ -137,6 +137,7 @@ class _MusicPlayerScreenState extends State<MusicPlayerScreen> {
                       color: Colors.white,
                     ),
                   ),
+                  const SizedBox(height: 10),
                 ],
               );
             },
