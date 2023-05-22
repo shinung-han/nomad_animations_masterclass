@@ -68,7 +68,7 @@
 - [x] #5.2 Album Scale
 - [x] #5.3 Hero
 - [x] #5.4 PageRouteBuilder
-- [ ] #5.5 ProgressBar
+- [x] #5.5 ProgressBar
 - [ ] #5.6 Progress Animation
 - [ ] #5.7 Code Challenge
 - [ ] #5.8 Marquee
