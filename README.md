@@ -108,7 +108,7 @@
 ### #8 WALLET PROJECT
 
 - [x] #8.0 Introduction
-- [ ] #8.1 Animate Widget
+- [x] #8.1 Animate Widget
 - [ ] #8.2 Animate Syntax
 - [ ] #8.3 Credit Cards
 - [ ] #8.4 AnimateList
