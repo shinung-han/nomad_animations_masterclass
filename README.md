@@ -73,8 +73,8 @@
 - [ ] #5.7 Code Challenge
 - [x] #5.8 Marquee
 - [x] #5.9 Lottie
-- [ ] #5.10 VolumePainter
-- [ ] #5.11 Covered Menu
+- [x] #5.10 VolumePainter
+- [x] #5.11 Covered Menu
 - [ ] #5.12 Interval
 - [ ] #5.13 Menu Slide
 - [ ] #5.14 Menu Animations
