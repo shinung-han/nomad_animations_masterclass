@@ -99,6 +99,6 @@
 ### #7 MATERIAL MOTION
 
 - [x] #7.0 Introduction
-- [ ] #7.1 Container Transform
+- [x] #7.1 Container Transform
 - [ ] #7.2 Shared Axis
 - [ ] #7.3 Fade Through
