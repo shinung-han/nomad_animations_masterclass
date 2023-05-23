@@ -112,7 +112,7 @@
 - [x] #8.2 Animate Syntax
 - [x] #8.3 Credit Cards
 - [x] #8.4 AnimateList
-- [ ] #8.5 Wallet Animation
+- [x] #8.5 Wallet Animation
 - [ ] #8.6 AbsorbPointer
 - [ ] #8.7 Credit Card Animation
 - [ ] #8.8 Transactions Animation
