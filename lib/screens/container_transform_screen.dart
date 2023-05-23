@@ -40,7 +40,6 @@ class _ContainerTransformScreenState extends State<ContainerTransformScreen> {
                 childAspectRatio: 1 / 1.5,
               ),
               itemBuilder: (context, index) => OpenContainer(
-                transitionDuration: const Duration(seconds: 5),
                 closedBuilder: (context, action) => Column(
                   children: [
                     Image.asset('assets/covers/${(index % 5) + 1}.jpg'),
@@ -62,7 +61,6 @@ class _ContainerTransformScreenState extends State<ContainerTransformScreen> {
               itemBuilder: (context, index) => OpenContainer(
                 openElevation: 0,
                 closedElevation: 0,
-                transitionDuration: const Duration(seconds: 5),
                 openBuilder: (context, action) => DetailScreen(
                   image: (index % 5) + 1,
                 ),
