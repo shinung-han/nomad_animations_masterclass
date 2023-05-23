@@ -102,3 +102,18 @@
 - [x] #7.1 Container Transform
 - [x] #7.2 Shared Axis
 - [x] #7.3 Fade Through
+
+#
+
+### #8 WALLET PROJECT
+
+- [x] #8.0 Introduction
+- [ ] #8.1 Animate Widget
+- [ ] #8.2 Animate Syntax
+- [ ] #8.3 Credit Cards
+- [ ] #8.4 AnimateList
+- [ ] #8.5 Wallet Animation
+- [ ] #8.6 AbsorbPointer
+- [ ] #8.7 Credit Card Animation
+- [ ] #8.8 Transactions Animation
+- [ ] #8.9 Conclusions
