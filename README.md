@@ -79,3 +79,6 @@
 - [x] #5.13 Menu Slide
 - [x] #5.14 Menu Animations
 - [x] #5.15 Conclusion
+
+![music_player](https://github.com/shinung-han/nomad_animations_masterclass/assets/118904460/a0f51b3b-ac19-466a-87c3-60dbf30a85a6)
+
