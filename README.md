@@ -78,4 +78,4 @@
 - [x] #5.12 Interval
 - [x] #5.13 Menu Slide
 - [x] #5.14 Menu Animations
-- [ ] #5.15 Conclusion
+- [x] #5.15 Conclusion
