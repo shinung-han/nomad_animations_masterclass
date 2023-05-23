@@ -82,3 +82,23 @@
 
 ![music_player](https://github.com/shinung-han/nomad_animations_masterclass/assets/118904460/3a54f91e-dc56-448f-b670-f41b227b9653)
 
+#
+
+### #6 RIVE
+
+- [ ] #6.1 Importing Animations
+- [ ] #6.2 Recap
+- [ ] #6.3 State Changes
+- [ ] #6.4 Custom Animation
+- [ ] #6.5 Animation Blur
+- [ ] #6.6 State Machine
+- [ ] #6.7 Conclusions
+
+#
+
+### #7 MATERIAL MOTION
+
+- [x] #7.0 Introduction
+- [ ] #7.1 Container Transform
+- [ ] #7.2 Shared Axis
+- [ ] #7.3 Fade Through
