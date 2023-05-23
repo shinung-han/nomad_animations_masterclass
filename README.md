@@ -114,6 +114,6 @@
 - [x] #8.4 AnimateList
 - [x] #8.5 Wallet Animation
 - [x] #8.6 AbsorbPointer
-- [ ] #8.7 Credit Card Animation
+- [x] #8.7 Credit Card Animation
 - [ ] #8.8 Transactions Animation
 - [ ] #8.9 Conclusions
