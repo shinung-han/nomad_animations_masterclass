@@ -75,7 +75,7 @@
 - [x] #5.9 Lottie
 - [x] #5.10 VolumePainter
 - [x] #5.11 Covered Menu
-- [ ] #5.12 Interval
+- [x] #5.12 Interval
 - [ ] #5.13 Menu Slide
 - [ ] #5.14 Menu Animations
 - [ ] #5.15 Conclusion
