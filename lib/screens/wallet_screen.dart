@@ -200,6 +200,46 @@ class CardDetailScreen extends StatelessWidget {
                 isExpanded: true,
               ),
             ),
+            ...[
+              for (var i in [1, 1, 1, 1, 1, 1])
+                Container(
+                  margin: const EdgeInsets.only(bottom: 10),
+                  child: ListTile(
+                    tileColor: Colors.grey.shade100,
+                    shape: BeveledRectangleBorder(
+                        borderRadius: BorderRadius.circular(10)),
+                    leading: Container(
+                        width: 50,
+                        height: 50,
+                        decoration: const BoxDecoration(
+                          shape: BoxShape.circle,
+                          color: Colors.red,
+                        ),
+                        child: const Icon(
+                          Icons.shopping_bag,
+                          color: Colors.white,
+                        )),
+                    title: const Text(
+                      "Uniqlo",
+                      style: TextStyle(
+                        fontSize: 18,
+                      ),
+                    ),
+                    subtitle: Text(
+                      'Gangnam Branch',
+                      style: TextStyle(color: Colors.grey.shade800),
+                    ),
+                    trailing: const Text(
+                      '\$452,895',
+                      style:
+                          TextStyle(fontSize: 18, fontWeight: FontWeight.w600),
+                    ),
+                  ),
+                ),
+            ]
+                .animate(interval: 500.milliseconds)
+                .fadeIn(begin: 0)
+                .flipV(begin: -0.5, end: 0, curve: Curves.bounceOut),
           ],
         ),
       ),
