@@ -101,4 +101,4 @@
 - [x] #7.0 Introduction
 - [x] #7.1 Container Transform
 - [x] #7.2 Shared Axis
-- [ ] #7.3 Fade Through
+- [x] #7.3 Fade Through

@@ -17,6 +17,9 @@ class MyApp extends StatelessWidget {
       debugShowCheckedModeBanner: false,
       title: 'Flutter Animations Masterclass',
       theme: ThemeData(
+        navigationBarTheme: const NavigationBarThemeData(
+          indicatorColor: Colors.amber,
+        ),
         colorScheme: const ColorScheme.light(
           primary: Colors.blue,
         ),
