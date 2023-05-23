@@ -77,5 +77,5 @@
 - [x] #5.11 Covered Menu
 - [x] #5.12 Interval
 - [x] #5.13 Menu Slide
-- [ ] #5.14 Menu Animations
+- [x] #5.14 Menu Animations
 - [ ] #5.15 Conclusion
