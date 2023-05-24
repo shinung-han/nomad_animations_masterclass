@@ -86,8 +86,8 @@
 
 ### #6 RIVE
 
-- [ ] #6.1 Importing Animations
-- [ ] #6.2 Recap
+- [x] #6.1 Importing Animations
+- [x] #6.2 Recap
 - [ ] #6.3 State Changes
 - [ ] #6.4 Custom Animation
 - [ ] #6.5 Animation Blur
