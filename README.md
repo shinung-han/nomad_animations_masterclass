@@ -90,7 +90,7 @@
 - [x] #6.2 Recap
 - [x] #6.3 State Changes
 - [x] #6.4 Custom Animation
-- [ ] #6.5 Animation Blur
+- [x] #6.5 Animation Blur
 - [ ] #6.6 State Machine
 - [ ] #6.7 Conclusions
 
